@@ -1,0 +1,9 @@
+MONGODB_HOST: mongodb.mokshi.fun
+REDIS_HOST: redis.mokshi.fun
+CATALOGUE_HOST: catalogue.mokshi.fun
+CART_HOST: cart.mokshi.fun
+USER_HOST: user.mokshi.fun
+RABBITMQ_HOST: rabbitmq.mokshi.fun
+MYSQL_HOST: mysql.mokshi.fun
+SHIPPING_HOST: shipping.mokshi.fun
+PAYMENT_HOST: payment.mokshi.fun
